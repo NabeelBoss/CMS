@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\views\\admin\\feedbacks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:views\\admin\\feedbacks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\models\\tblproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:models\\tblproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\models\\alltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:models\\alltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\models\\tblfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:models\\tblfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\views\\admin\\productview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:views\\admin\\productview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\views\\admin\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:views\\admin\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\views\\home\\submitreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:views\\home\\submitreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\data\\db_cmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:data\\db_cmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\models\\tblupcomingevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:models\\tblupcomingevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\views\\admin\\productadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:views\\admin\\productadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\models\\tblorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:models\\tblorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\views\\admin\\purchases.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:views\\admin\\purchases.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|c:\\users\\asus\\desktop\\dotnet projects\\cms-main\\cms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DA3080C-DF09-430B-AA26-F3D519A6576A}|CMS.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T20:06:25.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Feedbacks.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Admin\\Feedbacks.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Feedbacks.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Admin\\Feedbacks.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Feedbacks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T19:48:45.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAO0BAAAAAAAAAAAAwOsBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:48:45.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeToolTip": "Views\\Home\\ProductDetails.cshtml",
+              "ViewState": "AQIAAAABAAAAAAAAAAAAABQBAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T19:48:45.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TblProduct.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Models\\TblProduct.cs",
+              "RelativeDocumentMoniker": "Models\\TblProduct.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Models\\TblProduct.cs",
+              "RelativeToolTip": "Models\\TblProduct.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:48:45.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllTables.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Models\\AllTables.cs",
+              "RelativeDocumentMoniker": "Models\\AllTables.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Models\\AllTables.cs",
+              "RelativeToolTip": "Models\\AllTables.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvxUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:48:45.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:48:45.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TblFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Models\\TblFeedback.cs",
+              "RelativeDocumentMoniker": "Models\\TblFeedback.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Models\\TblFeedback.cs",
+              "RelativeToolTip": "Models\\TblFeedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:48:45.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Admin\\ProductView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ProductView.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Admin\\ProductView.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ProductView.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T19:48:45.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T19:48:45.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Admin\\AddEvent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AddEvent.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Admin\\AddEvent.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AddEvent.cshtml",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T19:48:45.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "db_cmsContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Data\\db_cmsContext.cs",
+              "RelativeDocumentMoniker": "Data\\db_cmsContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Data\\db_cmsContext.cs",
+              "RelativeToolTip": "Data\\db_cmsContext.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:48:45.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAHkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T19:48:45.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubmitReview.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Home\\SubmitReview.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SubmitReview.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Home\\SubmitReview.cshtml",
+              "RelativeToolTip": "Views\\Home\\SubmitReview.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T19:48:45.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TblUpcomingEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Models\\TblUpcomingEvent.cs",
+              "RelativeDocumentMoniker": "Models\\TblUpcomingEvent.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Models\\TblUpcomingEvent.cs",
+              "RelativeToolTip": "Models\\TblUpcomingEvent.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:48:45.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductAdd.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Admin\\ProductAdd.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ProductAdd.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Admin\\ProductAdd.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ProductAdd.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T19:48:45.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T19:48:45.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TblOrder.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Models\\TblOrder.cs",
+              "RelativeDocumentMoniker": "Models\\TblOrder.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Models\\TblOrder.cs",
+              "RelativeToolTip": "Models\\TblOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:48:45.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEAAAAAAwMzMzMwHwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T19:48:45.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Admin\\Orders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Admin\\Orders.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Orders.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T19:48:45.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Purchases.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Admin\\Purchases.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Purchases.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet projects\\CMS-main\\CMS\\Views\\Admin\\Purchases.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Purchases.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T19:48:45.398Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
